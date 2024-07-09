@@ -1,4 +1,8 @@
-### Hi there 👋
+ _   _ ___   _____ _   _ _____ ____  _____   _ 
+| | | |_ _| |_   _| | | | ____|  _ \| ____| | |
+| |_| || |    | | | |_| |  _| | |_) |  _|   | |
+|  _  || |    | | |  _  | |___|  _ <| |___  |_|
+|_| |_|___|   |_| |_| |_|_____|_| \_\_____| (_)
 
 <!--
 **gziz/gziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
