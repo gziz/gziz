@@ -1,1 +1,3 @@
-
+- Software Engineer @ Microsoft 👨‍💻
+- Rational Optimist 🧠
+- Keeping up with the LLM craze 🤖
