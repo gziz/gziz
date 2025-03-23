@@ -1,3 +1,4 @@
 - Software Engineer @ Microsoft 👨‍💻
 - Rational Optimist 🧠
 - Keeping up with the LLM craze 🤖
+- Why gziz? Cause my second last name is Zizumbo
